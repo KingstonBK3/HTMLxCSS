@@ -1,0 +1,25 @@
+header{
+	border: 5px solid blue;
+}
+section{
+	border: 5px solid red;
+	width: 60%;
+	float: left;
+}
+article{
+	border: 5px solid green;
+	width:;
+	float:;
+}
+aside{
+	border: 5px solid blue;
+}
+nav{
+	border: 5px solid blue;
+}
+footer{
+	border: 5px solid green;
+}
+div{
+	border: 5px solid red;
+}

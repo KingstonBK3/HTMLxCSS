@@ -1,0 +1,73 @@
+header{
+	border: 3px solid blue;
+	background-image: linear-gradient(white,lightblue);
+	text-align: right;
+	padding-bottom: 5%;
+	margin-bottom: 1%;
+}
+h1{
+	color: blue;
+	font-size: 64px;
+	font-family: arial;
+	font-weight: bold;
+	margin-right: 2%;
+}
+aside{
+	border: 3px solid blue;
+	background-color: blue;
+	position: fixed;
+	left: 0.5%;
+	height: 70%;
+	width: 15%;
+}
+li{
+	color: white;
+	text-decoration: underline;
+	list-style: none;
+}
+h2{
+	text-align: center;
+	color: blue;
+	font-family: arial;
+	font-weight: bold;
+	position: absolute;
+	left: 49%;
+}
+.a{
+	border: 0px;
+	background-color: lightyellow;
+	text-align: center;
+	margin-right: 35%;
+	margin-left: 35%;
+	position: absolute;
+	bottom: 45%;
+	right: 13%;
+	width: 30%;
+	text-align: justify;	
+}
+.b{
+	border: 0px;
+	background-color: lightyellow;
+	text-align: center;
+	margin-right: 35%;
+	margin-left: 35%;
+	position: absolute;
+	bottom: 45%;
+	left: 19%;
+	width: 30%;
+	text-align: justify;
+}
+.ki{
+	border: 0px;
+	background-color: blue;
+	margin-right: 1%;
+	margin-left: 1%;
+	color: lightyellow;
+	text-align: center;
+}
+.html{
+	color: orange;
+}
+.css{
+	color: blue;
+}

@@ -1,0 +1,36 @@
+.a{
+	border: 3px solid red;
+	width: 50%;
+	background-color: purple;
+	margin-bottom: 0.5%;
+	#position:relative;
+	#left: 300px;
+}
+.b{
+	border: 3px solid green;
+	width: 75%;
+	background-color: lightgreen;
+	margin-bottom: 0.5%;
+	#position: absolute;
+	#right: 30px;
+	#top: 150px;
+}
+.c{
+	border: 3px solid blue;
+	width: 30%;
+	background-color: lightblue;
+	margin-bottom: 0.5%;
+	position: fixed;
+	right: 75px;
+	bottom: 25px;
+	top: 35px;
+}
+footer{
+	border: 3px solid yellow;
+	background-color: lightyellow;
+}
+header{
+	border: 3px solid brown;
+	background-color: lightgrey;
+	margin-bottom: 0.5%;
+}
