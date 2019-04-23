@@ -1,0 +1,119 @@
+* {
+	 box-sizing: border-box;
+}
+body {
+	background-image: url("Fon/blue.png");
+	 
+}
+
+main {
+	width: 93.05555555555556%;/* 1340px/1440*/
+	margin: 0 auto;
+	overflow: hidden;
+	background-color: transparent;
+}
+.logo {
+	width: 4.86111111111111%;/*70px*/
+	height: 4.86111111111111%;/*70px*/
+	border: 3px solid darkviolet;
+	border-radius: 50%;
+	float: left;
+	margin-top: 25px; 
+	margin-left: 25px;
+}
+
+.header_1 {
+	width: 100%;
+	height: auto;
+	background-color: navy;
+	overflow: hidden;
+	margin-bottom: 1.73611111111111%;/*25px*/
+
+
+}
+.header_2 {
+	width: 100%;
+	height: auto;
+	background-color: black;
+	overflow: hidden;
+	margin-bottom: 1.73611111111111%;/*25px*/
+
+
+}
+h2 {
+	color: navy;
+	font-size: 2vw;
+	font-family: Arial;
+	padding-left: 9.02777777777778%;/*130px/1440;*/
+	text-shadow: 1px 1px blue, 3px 3px cyan;
+}
+.h1_1 {
+	color: white;
+	font-size: 3.5em;
+	font-family: Arial;
+	padding-left: 9.02777777777778%;/*130px/1440;*/
+	text-shadow: 3px 3px blue, 5px 5px cyan;
+}
+.h1_2 {
+	color: white;
+	font-size: 4vw;/*48px/16*/
+	font-family: Arial;
+	padding-left: 9.02777777777778%;/*130px/1440;*/
+	text-shadow: 3px 3px lightblue, 5px 5px darkviolet;
+}
+nav {
+	clear: both;
+	width: 93.05555555555556%;/*1340px/1440*/
+	background-color: darkviolet;
+	margin: 0 auto;
+}
+ul li{
+	font-size: 1.2vw;
+	display: inline-block;
+	padding-left: 7.46268656716418%;/*100px;*/
+	color: white;
+	font-weight: bold;
+}
+/*div {
+	width: 1340px;
+	height: auto;
+	background-color: grey;
+	margin: 0 auto;
+}*/
+
+.pic_txt {
+	width: 23.88059701492537%;/*320px/1340*/;
+	float: left;
+	background-color: white;
+	/*padding-right: 20px;*/
+}
+.right {
+	margin-right: 1.49253731343284%;/*20px/1340*/;
+}
+p {
+	width: 100%;
+	height: 150%;
+	font-size: 1.5vw;
+	background-color: white;
+	padding: 0 15px;
+	text-align: justify;
+	/*
+	margin: 10px;
+	border: 3px solid blue;*/
+}
+img {
+	width: 100%;/*320px*/
+	height: 95%;/*327px*/
+	padding: 1.5625%;/*5px*/
+}
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: auto;
+	background-color: black;
+	color: white;
+	font-size: 28px;
+	clear: both;
+	 text-align: center;
+}
